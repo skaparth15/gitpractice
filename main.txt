@@ -16,6 +16,5 @@ before git reset
 applying for the revert
 
 before git reseti
-added for revert 
-added for revert
+
 
