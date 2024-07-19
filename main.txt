@@ -8,4 +8,7 @@ Changes done as said by charan:wq!:
 after git pus
 after git pull
 git revert command
+---------------------------------
+after git pus
+before git reset
 
