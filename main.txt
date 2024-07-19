@@ -11,4 +11,5 @@ git revert command
 ---------------------------------
 after git pus
 before git reset
+applying for the revert
 
